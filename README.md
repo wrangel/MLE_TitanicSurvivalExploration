@@ -1,1 +1,1 @@
-# MLE_TitanicSurvivalExploration
+# Udacity Machine Learning Engineer Nanodegree - Excercise 0 - TitanicSurvivalExploration

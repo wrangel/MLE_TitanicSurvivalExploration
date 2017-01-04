@@ -1,1 +1,2 @@
-# Udacity Machine Learning Engineer Nanodegree - Excercise 0 - TitanicSurvivalExploration
+# Udacity Machine Learning Engineer Nanodegree 
+# Project 0 - TitanicSurvivalExploration
